@@ -1,5 +1,3 @@
-# Adivinhe o Número!
-
 [Português](#pt-br) | [English](#en) 
 # [Adivinhe o Número](https://github.com/im4k1r4/guess_the_number/deployments/github-pages) <a name="pt-br"></a>
 
