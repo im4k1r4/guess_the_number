@@ -1,5 +1,5 @@
 [Português](#pt-br) | [English](#en) 
-# [Adivinhe o Número](https://github.com/im4k1r4/guess_the_number/deployments/github-pages) <a name="pt-br"></a>
+# [Adivinhe o Número](https://im4k1r4.github.io/guess_the_number/) <a name="pt-br"></a>
 
 ## Screenshot
 ![Print do Projeto](https://github.com/im4k1r4/guess_the_number/blob/main/project_img.jpeg)
@@ -18,7 +18,7 @@ Este projeto foi desenvolvido como parte de um estudo de JavaScript. Trata-se de
 - Web Speech API: Para permitir que o jogador dê palpites por meio de comandos de voz.
 - HTML e CSS: Para a estrutura e o estilo visual do jogo.
 
-# [Guess the Number](https://github.com/im4k1r4/guess_the_number/deployments/github-pages)<a name="en"></a>
+# [Guess the Number](https://im4k1r4.github.io/guess_the_number/)<a name="en"></a>
 
 ## Screenshot
 ![Screenshot](https://github.com/im4k1r4/guess_the_number/blob/main/project_img.jpeg)
